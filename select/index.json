@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フィグ",
+  "base_artist": "來-Ray-",
+  "createdAt": "2026-04-03T02:25:59.608244Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィグ",
+      "artist": "來-Ray-",
+      "has_synced": false,
+      "path": "select/pl_01_フィグ_來-Ray-.txt"
+    }
+  ]
+}
